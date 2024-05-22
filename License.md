@@ -12,5 +12,7 @@ With this licence you are free to adapt (i.e. modify, rework or update) and shar
 ## Furthermore: 
 
 You **MUST** attribute myself (The Creator/Source) on any/all modifications which inherit some or wholey the scripts, mod, textures, files, etc uploaded here (Or on my Steam Workshop). 
+
 You **MUST** retain any/all supplied licenses and supporting documents. 
+
 You **MUST** provide a link to the original source as part of any description(s) _Original source being this repository OR the Steam Workshop page_
