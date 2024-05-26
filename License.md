@@ -16,3 +16,25 @@ You **MUST** attribute myself (The Creator/Source) on any/all modifications whic
 You **MUST** retain any/all supplied licenses and supporting documents. 
 
 You **MUST** provide a link to the original source as part of any description(s) _Original source being this repository OR the Steam Workshop page_
+
+## Additionally
+
+Any mods published via this repository OR my Steam Workshop page **ARE NOT** to be used by any of the following;
+
+- Life or other Servers where my mod files are intended to be used behind a pay/donation wall - Life or other Servers can **ONLY** use my files where they are available for everyone to use (Having them behind a role I.E Coast Guard, is fine, providing you are not asking for money in order to be that role). 
+
+- Any servers that are used to depict current world conflicts (aka the Current Wars in: Ukraine & Gaza)
+
+
+## Finally:
+
+Units listed here in this section have an outright refusal to use of any of my mods uploaded here **OR** on my steam workshop page **OR** any files that I have previously allowed you to use. This ban is in place as usually you have violated my trust by removing or changing mod/license files to remove any mention of myself AND make it appear like you own the mods, therefore I have no choice except to outright refuse you to use them. 
+
+
+The Canadian Tactical Group aka CTG
+      - This includes members of this group uploading their own modifications, regardless of their intentions to not use it for this unit
+      - This also refuses this group, or any of its members from using ANY other files that I personally created and allowed you to use. Why? Because the person in             charge, Calin said they were useless and not needed, yet still to this day continues to use them (After ripping them from the source, and editing them to               remove any mention of myself or my licenses). 
+
+Any Unit that use some or part of some illegal mods (Like TFL/Taxer/Hyun/etc/etc)
+   - You know excatly what mods I am reffering to.. ANY mod that has been ripped is included as part of this. 
+   - Those mods may cause issues with my mods, and I do not want the hassle of trying to help you fix an issue that you have brought onto yourself by using ripped/          illegal mods. 
