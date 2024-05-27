@@ -8,7 +8,7 @@ Provides upgraded and more accurate MH-60's using RHS USAF Weapons & Sounds. Als
 
 LASS (Lightweight Armament Support Structures) is the proper name for the 'pylon' mounts that are used on Blackhawk Helicopters.
 
-DAP (Direct Action Penetrator) is the name given **only** to the 160th SOAR's Blackhawks, used to describe their combat role which is as as Gunship. 
+DAP (Direct Action Penetrator) is the name given **only** to the 160th SOAR's Blackhawks, used to describe their combat role which is as a Gunship. 
 
 ### Assets Provided:
 
