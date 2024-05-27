@@ -11,11 +11,16 @@ With this licence you are free to adapt (i.e. modify, rework or update) and shar
 
 ## Furthermore: 
 
-You **MUST** attribute myself (The Creator/Source) on any/all modifications which inherit some or wholey the scripts, mod, textures, files, etc uploaded here (Or on my Steam Workshop). 
+- You **MUST** attribute myself (The Creator/Source) on any/all modifications which inherit some or wholey the content that I have created.
+   - This applies to both this GitHub **AND** my Steam Workshop. 
 
-You **MUST** retain any/all supplied licenses and supporting documents. 
+- You **MUST** retain any/all supplied licenses and supporting documents. 
 
-You **MUST** provide a link to the original source as part of any description(s) _Original source being this repository OR the Steam Workshop page_
+- You **MUST** provide a link to the original source as part of any description(s).
+   - _Original source being this repository OR the Steam Workshop page_.
+
+- You **MUST** acknowledge that I reserve the right to deny the use of any of my creations at any time.
+   - _This includes the revoking of past permissions, should I feel the need to do so_. 
 
 ## Additionally
 
