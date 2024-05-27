@@ -40,5 +40,4 @@ Why?
 > Mainly because the person in charge, Calin said they were useless and not needed and never asked for, yet still to this day continues to use them (After ripping them from the source, and editing them to remove any mention of myself or my licenses). 
 
 **Any Unit that use some or part of some illegal mods (Like TFL/Taxer/Hyun/etc/etc)**
-   - You know excatly what mods I am reffering to.. ANY mod that has been ripped is included as part of this. 
-   - Those mods may cause issues with my mods, and I do not want the hassle of trying to help you fix an issue that you have brought onto yourself by using ripped/          illegal mods. 
+   - You know exactly  what mods I am referring to.. ANY mod that has been ripped is included as part of this. 
