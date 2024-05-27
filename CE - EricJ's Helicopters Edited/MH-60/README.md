@@ -6,7 +6,7 @@ CE_MH60
 ### Description: 
 Provides upgraded and more accurate MH-60's using RHS USAF Weapons & Sounds. Also adds MH-60s to proper RHS USAF Factions (EX: MH-60S added to RHS USAF USMC).
 
-LASS (Lightweight Armament Support Structures) is the proper name for the 'pylon' mounts that are used on Blackhawk Helicopters (References available at the bottom).
+LASS (Lightweight Armament Support Structures) is the proper name for the 'pylon' mounts that are used on Blackhawk Helicopters.
 
 DAP (Direct Action Penetrator) is the name given **only** to the 160th SOAR's Blackhawks, used to describe their combat role which is as as Gunship. 
 
