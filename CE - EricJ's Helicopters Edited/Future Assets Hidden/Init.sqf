@@ -44,7 +44,16 @@ Author:
     commy2
 ---------------------------------------------------------------------------- */
 
-// Create CBA Setting Options that "scope=0;"'s the assets when checkboxed
+
+/* ----------------------------------------------------------------------------
+Create CBA Setting Options that "scope=0;"'s the assets when checkboxed
+
+atm its just a config with scope=0; on everything. 
+but i'd rather have a CBA setting that does that, or atleast hides them from the menu. 
+
+aka Checkboxing an option hides/removes those assets from the game so no one can place them. 
+
+---------------------------------------------------------------------------- */
 
 ["CE_EjHeliHide_UH60M", "Checkbox", ["Hide UH-60 Assets", "Hides all assets that are contained within the UH-60 pbo"], "EricJ Helicopters : UH-60", true] call cba_settings_fnc_init
 
