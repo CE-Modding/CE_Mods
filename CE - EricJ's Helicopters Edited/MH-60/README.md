@@ -85,6 +85,26 @@ DAP (Direct Action Penetrator) is the name given **only** to the 160th SOAR's Bl
     - Only Direct Fire Munitions (Rocket Pods etc) can be fitted to the closest right-side pylon, the M230 Cannon (Left-side) cannot be changed.
     - Only Tracking Munitions (Missiles such like AGM-114 etc) can be fitted to the furthest pylons. 
 
+
+### Hardpoints
+**MH-60S**
+
+  - Direct Fire Munitions
+    - "RHS_HP_FFAR_ARMY","RHS_HP_Fuel_ARMY","RHS_HP_ATAS","RHS_HP_MELB","bwi_t6cwep","DAR","DAGR","B_SHIEKER","O_SKYFIRE"
+
+  - Tracking Munitions
+    - "B_MISSILE_PYLON","UNI_SCALPEL","RHS_HP_HELLFIRE_RACK","SCALPEL_1RND_EJECTOR","B_ASRRAM_EJECTOR"
+  
+**MH-60M**
+
+  - Direct Fire Munitions
+    - "RHS_HP_FFAR_ARMY","RHS_HP_Fuel_ARMY","RHS_HP_ATAS","RHS_HP_MELB","bwi_t6cwep","DAR","DAGR","B_SHIEKER","O_SKYFIRE"
+
+  - Tracking Munitions
+    - "B_MISSILE_PYLON","UNI_SCALPEL","RHS_HP_HELLFIRE_RACK","SCALPEL_1RND_EJECTOR","B_ASRRAM_EJECTOR"
+
+
+
 ### Addons Required:
 ```
 "rhsusf_main",
@@ -105,3 +125,5 @@ https://www.armyrecognition.com/news/aerospace-news/2018/unitech-lass-weapons-py
 https://www.americanspecialops.com/photos/night-stalkers/mh-60l-dap.php
 https://www.soc.mil/USASOAC/AirFrames.html
 https://www.militaryfactory.com/aircraft/detail.php?aircraft_id=2384
+
+
