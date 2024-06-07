@@ -4,7 +4,7 @@
 EJ_FutureAssets_Hide
 
 ### Description: 
-Hides any assets that are deemed too futuristic considering RHS USAF context. Also hides assets which are deemed to be duplicates or unuseable (EX: RHS USAF has an adequate MH-6 & UH-60)
+Hides any assets that are deemed too futuristic.
 
 ### Addons Required:
 ```
