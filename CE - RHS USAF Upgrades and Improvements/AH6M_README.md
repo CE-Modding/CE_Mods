@@ -30,7 +30,7 @@ Aims to upgrade or improve various RHS USAF assets (Specifically the MH/AH-6M 'L
 
 ### Addons Not Required, but loading them alongside this mod will improve things inside this mod:
 ```
-"CE_RHSUSAF_HMDs" <-- Improves the GAU-19/H
+"CE_RHSUSAF_HMDs"
 ```
 
 ### AH-6M Pylon Presets
