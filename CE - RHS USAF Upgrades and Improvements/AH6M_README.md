@@ -34,7 +34,8 @@ Aims to upgrade or improve various RHS USAF assets (Specifically the MH/AH-6M 'L
 ```
 
 ### AH-6M Pylon Presets
-```class Standard
+```
+class Standard
 {
   attachment[]=
   {
@@ -77,4 +78,5 @@ class CE_CAS_SLAP
     "rhsusf_mag_gau19_melb_right"
   };
   displayname="Heavy CAS (GAU+M134{SLAP}+RKT)";
-};```
+};
+```
