@@ -6,7 +6,7 @@ CE_RHSUSAF_AH6M
 ### Description: 
 Aims to upgrade or improve various RHS USAF assets (Specifically the MH/AH-6M 'Littlebird')
 
-### _AH6M Assets Provided:
+### Assets Provided:
 - MH-6M
   - Upgraded performance and maneuverability.
   - Useage of CE_Flares (Uses the 480rnd flare "Magazine" + Has 10x "reloads").
@@ -30,10 +30,11 @@ Aims to upgrade or improve various RHS USAF assets (Specifically the MH/AH-6M 'L
 
 ### Addons Not Required, but loading them alongside this mod will improve things inside this mod:
 ```
-"CE_RHSUSAF_HMDs" <-- Improves the GAU-19/H
+"CE_RHSUSAF_HMDs"
 ```
 
 ### AH-6M Pylon Presets
+```
 class Standard
 {
   attachment[]=
@@ -78,3 +79,4 @@ class CE_CAS_SLAP
   };
   displayname="Heavy CAS (GAU+M134{SLAP}+RKT)";
 };
+```

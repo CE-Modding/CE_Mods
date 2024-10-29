@@ -1,80 +1,83 @@
-## AH-6M
+## Ammo
 
 ### PBO Name: 
-CE_RHSUSAF_AH6M
+CE_RHSUSAF_Ammo
 
 ### Description: 
-Aims to upgrade or improve various RHS USAF assets (Specifically the MH/AH-6M 'Littlebird')
+Aims to upgrade or improve various RHS USAF assets (Specifically Ammo and Magazines)
 
-### _AH6M Assets Provided:
-- MH-6M
-  - Upgraded performance and maneuverability.
-  - Useage of CE_Flares (Uses the 480rnd flare "Magazine" + Has 10x "reloads").
-  - Upgraded Sensors including Datalinking.
-
-- AH-6M (Includes points above)
-  - M134 Ammo upgrade (Now can use either AP or SLAP ammo (Though seperate pylons).
-  - GAU-19 Ammo upgrade (Now uses ammo similar to the mk211 ammo (HEIAP/T).
-  - Increased fuel capacity.
-  - Added more pylon presets (See Bottom of this file) .
+### Ammo Provided:
+- CE_762x51_AP
+  - Slightly reduced hit damage amount (AP was far too powerful before this, in my opinion).
+    
+- CE_762x51_HEI
+  - Adds an HEI ammo type, similar to mk211 but with less hit damage amount and less indirect hit damage amount.
+    
+### Magazines Provided:
+**ARMOUR PIERCING (AP)**
+- rhsusf_50Rnd_762x51_m61_ap
+  - Includes Inventory/UI image
+  - Overwritten to use "CE_762x51_AP" ammo
+  - 50rnds
+    
+- rhsusf_100Rnd_762x51_m61_ap
+  - Includes Inventory/UI image
+  - Overwritten to use "CE_762x51_AP" ammo
+  - 100rnds
  
+- CE_200Rnd_762x51_AP
+  - Includes Inventory/UI image
+  - Uses "CE_762x51_AP" ammo
+  - 200rnds
+
+**ARMOUR PIERCING TRACER (APT)**
+- CE_100Rnd_762x51_APT
+  - Includes Inventory/UI image
+  - Uses "CE_762x51_AP" ammo with tracers every 10 (Every 10 rnds a tracer is fired)
+  - 100rnds
+
+- CE_200Rnd_762x51_APT
+  - Includes Inventory/UI image
+  - Uses "CE_762x51_AP" ammo with tracers every 10 (Every 10 rnds a tracer is fired)
+  - 200rnds
+  
+**HIGH EXPLOSIVE INCENDIARY (HEI)**
+- CE_100Rnd_762x51_HEI
+  - Includes Inventory/UI image
+  - Uses "CE_762x51_HEI" ammo with tracers every 10 (Every 10 rnds a tracer is fired)
+  - 100rnds
+    
+- CE_200Rnd_762x51_HEI
+  - Includes Inventory/UI image
+  - Uses "CE_762x51_HEI" ammo with tracers every 10 (Every 10 rnds a tracer is fired)  - 200rnds
+
+**INFRARED DIM-BURNING TRACER (IRDIM)**
+- CE_100Rnd_762x51_IRDIM
+  - Includes Inventory/UI image
+  - Uses "ACE_B_762x51_Tracer_Dim" ammo
+  - 100rnds
+  - 
+- CE_200Rnd_762x51_IRDIM
+  - Includes Inventory/UI image
+  - Uses "ACE_B_762x51_Tracer_Dim" ammo
+  - 200rnds
+ 
+- CE_100Rnd_556x45_IRDIM
+  - Includes Inventory/UI image
+  - Uses "ACE_B_556x45_Ball_Tracer_Dim" ammo
+  - 100rnds
+ 
+- CE_200Rnd_556x45_IRDIM
+  - Includes Inventory/UI image
+  - Uses "ACE_B_556x45_Ball_Tracer_Dim" ammo
+  - 200rnds
 
 ### Addons Required:
 ```
-"rhsusf_main",
-"rhsusf_c_airweapons",
-"rhsusf_c_heavyweapons",
-"rhsusf_c_melb",
-"CE_Flares"
+"rhsusf_main"
 ```
 
-### Addons Not Required, but loading them alongside this mod will improve things inside this mod:
+### Addons Not Required unless you want to use the IRDIM magazines:
 ```
-"CE_RHSUSAF_HMDs" <-- Improves the GAU-19/H
+"ace_ballistics"
 ```
-
-### AH-6M Pylon Presets
-class Standard
-{
-  attachment[]=
-  {
-    "rhs_mag_M151_7",
-    "rhs_mag_m134_pylon_3000",
-    "rhs_mag_m134_pylon_3000",
-    "rhs_mag_M151_7"
-  };
-  displayname="Standard (M134{AP}+RKT)";
-};
-class Standard_SLAP
-{
-  attachment[]=
-  {
-    "rhs_mag_M151_7",
-    "RHS_weap_m134_pylon_SLAP",
-    "RHS_weap_m134_pylon_SLAP",
-    "rhs_mag_M151_7"
-  };
-  displayname="Standard (M134{SLAP}+RKT)";
-};
-class CE_CAS
-{
-  attachment[]=
-  {
-    "rhs_mag_ATAS_2",
-    "rhs_mag_M229_19",
-    "rhs_mag_M229_19",
-    "rhsusf_mag_gau19_melb_right"
-  };
-  displayname="Heavy CAS (GAU+RKT+ATAS)";
-};
-class CE_CAS_SLAP
-{
-  attachment[]=
-  {
-    "rhs_mag_M229_19",
-    "RHS_weap_m134_pylon_SLAP",
-    "RHS_weap_m134_pylon_SLAP",
-    "rhsusf_mag_gau19_melb_right"
-  };
-  displayname="Heavy CAS (GAU+M134{SLAP}+RKT)";
-};
