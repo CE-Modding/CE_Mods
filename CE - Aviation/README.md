@@ -1,7 +1,6 @@
-## Air Munitions
+## Aviation
 
-### PBO Name: 
-CE_Air_Munitions
+### CE_Air_Munitions
 
 ### Description: 
 Provides Air Launched Cruise Missile, AGM-114L SEAD, AGM-89E HARM; all of these are able to be fitted to most aircraft including helicopters. 
@@ -42,17 +41,6 @@ Provides Air Launched Cruise Missile, AGM-114L SEAD, AGM-89E HARM; all of these 
 "rhsusf_c_airweapons",
 "rhsusf_c_heavyweapons",
 "WNZ_alt_Aircannons"
-```
-
-
-### Addons Not Required, unless you want the .50cal Gunpod:
-```
-"UK3CB_Factions_Vehicles_Common"
-```
-
-### Addons Not Required, but loading them alongside this mod will improve things inside this mod:
-```
-"CE_AH6M" <-- Improves the GAU-19/H
 ```
 
 ### Hardpoints 

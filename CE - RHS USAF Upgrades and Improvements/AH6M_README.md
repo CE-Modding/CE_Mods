@@ -13,8 +13,6 @@ Aims to upgrade or improve various RHS USAF assets (Specifically the MH/AH-6M 'L
   - Upgraded Sensors including Datalinking.
 
 - AH-6M (Includes points above)
-  - M134 Ammo upgrade (Now can use either AP or SLAP ammo (Though seperate pylons).
-  - GAU-19 Ammo upgrade (Now uses ammo similar to the mk211 ammo (HEIAP/T).
   - Increased fuel capacity.
   - Added more pylon presets (See Bottom of this file) .
  
@@ -25,6 +23,8 @@ Aims to upgrade or improve various RHS USAF assets (Specifically the MH/AH-6M 'L
 "rhsusf_c_airweapons",
 "rhsusf_c_heavyweapons",
 "rhsusf_c_melb",
+"CE_MAIN",
+"CE_Air_Munitions",
 "CE_Flares"
 ```
 
