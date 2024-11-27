@@ -6,7 +6,7 @@ With this licence you are free to adapt (i.e. modify, rework or update) and shar
 
    - Attribution - You must attribute the material in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the material).
    - Noncommercial - You may not use this material for any commercial purposes.
-   - Arma Only - You may not convert or adapt this material to be used in other games than Arma.
+   - Arma Only - You may not convert or adapt this material to be used in other games than Arma 3. 
    - Share Alike - If you adapt, or build upon this material, you may distribute the resulting material only under the same license.
 
 ## Furthermore: 
@@ -20,7 +20,11 @@ With this licence you are free to adapt (i.e. modify, rework or update) and shar
    - _Original source being this repository OR the Steam Workshop page_.
 
 - You **MUST** acknowledge that I reserve the right to deny the use of any of my creations at any time.
-   - _This includes the revoking of past permissions, should I feel the need to do so_. 
+   - _This includes the revoking of past permissions, should I feel the need to do so_.
+     
+- You **MUST NOT** open or modify the provided PBO files in my mod(s). (You can freely modify, via class inheritance contained within your own mod(s)).
+
+- You **CANNOT** reupload my PBO files (You **MUST** add my mod(s) as a requiredAddon only), following the other terms of this licence. 
 
 ## Additionally
 
@@ -39,10 +43,9 @@ _This ban is in place as usually you have violated my trust by removing or chang
 ---------------
 **The Canadian Tactical Group aka CTG:**
 
-   - This includes members of this group uploading their own modifications, regardless of their intentions to not use it for this unit
-   - This also refuses this group, or any of its members from using ANY other files that I personally created and allowed you to use. 
-
-`Why? Mainly because the person in charge, Calin said they were useless and not needed and never asked for, yet still to this day continues to use them (After ripping them from the source, and editing them to remove any mention of myself or my licenses).`
+   - This includes members of this group uploading their own modifications, regardless of their intentions to not use it for this unit.
+   - This also refuses this group, or any of its members from using ANY other files that I personally created and allowed you to use.
+   - This includes 
 
 ---------------
 **Any Unit that use some or part of some illegal mods (Like TFL/Taxer/Hyun/etc/etc)**
