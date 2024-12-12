@@ -45,7 +45,6 @@ _This ban is in place as usually you have violated my trust by removing or chang
 
    - This includes members of this group uploading their own modifications, regardless of their intentions to not use it for this unit.
    - This also refuses this group, or any of its members from using ANY other files that I personally created and allowed you to use.
-   - This includes 
 
 ---------------
 **Any Unit that use some or part of some illegal mods (Like TFL/Taxer/Hyun/etc/etc)**
