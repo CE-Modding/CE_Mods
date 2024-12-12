@@ -1,4 +1,4 @@
-# All Arma 3 files are licensed under the [APL-ND licence](https://www.bohemia.net/community/licenses/arma-public-license-nd)
+# Arma 3 Mods / Files that link to this licence specifically are licensed under the [APL-ND licence](https://www.bohemia.net/community/licenses/arma-public-license-nd)
 
 ## In short, this means:  
 
