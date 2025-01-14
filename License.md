@@ -1,4 +1,4 @@
-# All Arma 3 files (Except [CE - MAIN](https://github.com/Eagle-Studios/CE_Mods/wiki/CE-MAIN), which is [APL-ND](https://github.com/Eagle-Studios/CE_Mods/blob/main/LicenseStrict.md)) are licensed under the [APL-SA licence](https://www.bohemia.net/community/licenses/arma-public-license-share-alike)
+# All Arma 3 files (Except those that link to my [Strict Licence](https://github.com/Eagle-Studios/CE_Mods/blob/main/LicenseStrict.md)) are licensed under the [APL-SA licence](https://www.bohemia.net/community/licenses/arma-public-license-share-alike)
 
 ## In short, this means:  
 
