@@ -1,4 +1,4 @@
-# Arma 3 Mods / Files that link to this licence specifically are licensed under the [APL-SA licence](https://www.bohemia.net/community/licenses/arma-public-license-share-alike)
+## Arma 3 Mods / Files that link to this licence specifically are licensed under the [ADPL-SA](https://www.bohemia.net/community/licenses/arma-and-dayz-public-license-share-alike-adpl-sa) licence.
 
 ## In short, this means:  
 
@@ -6,7 +6,7 @@ With this licence you are free to adapt (i.e. modify, rework or update) and shar
 
    - Attribution - You must attribute the material in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the material).
    - Noncommercial - You may not use this material for any commercial purposes.
-   - Arma Only - You may not convert or adapt this material to be used in other games than Arma 3. 
+   - Arma and Dayz Only - You may not convert or adapt this material to be used in other games than Arma and Dayz. 
    - Share Alike - If you adapt, or build upon this material, you may distribute the resulting material only under the same license.
 
 ## Furthermore: 
@@ -22,17 +22,19 @@ With this licence you are free to adapt (i.e. modify, rework or update) and shar
 - You **MUST** acknowledge that I reserve the right to deny the use of any of my creations at any time.
    - _This includes the revoking of past permissions, should I feel the need to do so_.
      
-- You **MUST NOT** open or modify the provided PBO files in my mod(s). (You can freely modify, via class inheritance contained within your own mod(s)).
+- You **MUST NOT** open or modify the provided PBO files in my mod(s). (You cannot modify, via class inheritance contained within your own mod(s)).
    - Should you wish to build upon the material, you can submit an [Issue](https://github.com/Eagle-Studios/CE_Mods/issues/new) on this Github.
-      - Ensure you include what you wish to be added, as well as any necessary links/files that you wish to be included (Example: You wish to add a texture to my [Naval](https://steamcommunity.com/sharedfiles/filedetails/?id=3382844451) mod).
+      - Ensure you include what you wish to be added, as well as any necessary links/files that you wish to be included (Example: You wish to add surface textures to my [Terrains (Core)](https://steamcommunity.com/sharedfiles/filedetails/?id=3368850834) mod).
 
-- You **CANNOT** reupload my PBO files (You **MUST** add my mod(s) as a requiredAddon only), following the other terms of this licence. 
+- You **CANNOT** reupload my PBO files **UNLESS** you have my explicit permission to do so.
+   - You **MUST** add my mod(s) as a requiredAddon.
+      - Ensure you also add the requiredAddons that my mod(s) require. 
 
 ## Additionally
 
 ### Any mods published via this repository OR my Steam Workshop page **ARE NOT** to be used by any of the following;
 
-   - Life or other Servers where my mod files are intended to be used behind a pay/donation wall
+   - Life or other Servers where my mod files are intended to be used behind a pay/donation wall 
       - Life or other Servers can **ONLY** use my files where they are available for everyone to use (Having them behind a role I.E Coast Guard, is fine, providing you are not asking for money in order to be that role). 
 
    - Any servers that are used to depict current world conflicts (aka the Current Wars in: Ukraine & Gaza)
@@ -47,7 +49,7 @@ _This ban is in place as usually you have violated my trust by removing or chang
 **The Canadian Tactical Group aka CTG:**
 
    - This includes members of this group uploading their own modifications, regardless of their intentions to not use it for this unit.
-   - This also refuses this group, or any of its members from using ANY other files that I personally created and allowed you to use.
+   - This also refuses this group, or any of its members from using **ANY** other files that I personally created and allowed you to use.
 
 ---------------
 **Any Unit that use some or part of some illegal mods (Like TFL/Taxer/Hyun/etc/etc)**
