@@ -9,3 +9,6 @@
 [Arma 3 (Steam)](https://steamcommunity.com/id/CEagle/myworkshopfiles/?appid=107410&sort=score&browsefilter=myfiles&view=imagewall)  <br>
 [Nexus](https://next.nexusmods.com/profile/EagleStudios) <br>
 [Fallout London (Nexus)](https://next.nexusmods.com/profile/EagleStudios/mods?gameId=6332)  <br>
+
+## Looking for information on hiring me for Freelance work?
+[Freelance Information (incl License, Prices, Work Ethics)](FreelanceInfo) <br>
