@@ -11,4 +11,4 @@
 [Fallout London (Nexus)](https://next.nexusmods.com/profile/EagleStudios/mods?gameId=6332)  <br>
 
 ## Looking for information on hiring me for Freelance work?
-[Freelance Information (incl License, Prices, Work Ethics)](FreelanceInfo) <br>
+[Freelance Information (incl License, Prices, Work Ethics)](FreelanceInfo.md) <br>
