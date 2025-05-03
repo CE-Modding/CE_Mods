@@ -2,8 +2,8 @@
 ## Disclaimer & License 
 
 **Any work I do as a freelancer (I.e adhoc/one-off/short term) is subject to the following:**
-- Any and All work will have my [Freelance License](LicenseFreelance) applied in order to protect myself.
-   - The only way this stipulation can be altered is by buying the appropriate 'upgrade' (See [How Much I Charge](LINK))
+- Any and All work will have my [Freelance License](LicenseFreelance.md) applied in order to protect myself.
+   - The only way this stipulation can be altered is by buying the appropriate 'upgrade' (See [How Much I Charge](https://github.com/Eagle-Studios/CE_Mods/blob/main/FreelanceInfo.md#how-much-i-charge))
    - Work completed under freelance, shall be provided with a licence document stating that you can reupload that specific work, thus waiving the APL-NDs reupload policy
       - Ensure this document is kept with the PBO. 
 
@@ -27,7 +27,7 @@ As a freelancer, I work how and when I want to, the only time I work to a deadli
 
 I have the right to live a life outside of any work I undertake. <br>
 
-I work on a per hour rate (see [How Much I Charge](LINK)), which is worked out only on the time spent completing the work required, I do this to ensure that you (the purchaser) are not in a position to tell me when I can or cannot be working. <br>
+I work on a per hour rate (see [How Much I Charge](https://github.com/Eagle-Studios/CE_Mods/blob/main/FreelanceInfo.md#how-much-i-charge)), which is worked out only on the time spent completing the work required, I do this to ensure that you (the purchaser) are not in a position to tell me when I can or cannot be working. <br>
 
 I can provide an itemised breakdown of the price I quote, should you wish. <br>
 
@@ -42,7 +42,7 @@ I may be able to offer milestone based payments which turn any work into modules
 ## How Much I Charge
 For general config work I work at a rate of £40 per-hour, _as mentioned above_ this is calculated on how much time I have spent working specifically on your project or if paying using the _described above_ milestone system, it will be worked as per the agreed module. <br>
 
-Should you wish to edit, modify, build upon the work provided, I charge an additional £80 to waive the [supplied license](LicenseFreelance). <br>
+Should you wish to edit, modify, build upon the work provided, I charge an additional £80 to waive the [supplied license](LicenseFreelance.md). <br>
 
 Note that additional charges may occur should I need to spend time looking into/researching a topic that your project involves; this will be communicated with you at the time. <br>
 
