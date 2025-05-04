@@ -7,6 +7,9 @@
 
 - I can and Will obfuscate any work where possible. 
    - The only way this stipulation can be altered is by buying the license waiver (See [How Much I Charge](https://github.com/Eagle-Studios/CE_Mods/blob/main/FreelanceInfo.md#how-much-i-charge))
+   - I may be able to provide a non-obfucated file (where possible), in order to allow you to do your own work using my work as basis (Think like a template)
+      - Example: I do a config project and you wish to add things to it in future but dont want to pay for the license waiver. I can provide a non-obfucated cpp which has all the elements ready for you to add/edit what you want (It just won't contain the work I have done (I.e Classnames and Inheritance will be there)).
+      - Example: I create textures for you, and I could provide a setup template which allows you to add your own textures using my template file. 
 
 - Any and All work which is proposed **MUST** follow Bohemia's EULA. (I'm not selling Arma-ready assets)
 
