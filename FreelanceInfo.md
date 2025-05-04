@@ -4,8 +4,6 @@
 **Any work I do as a freelancer (I.e adhoc/one-off/short term) is subject to the following:**
 - Any and All work will have my [Freelance License](LicenseFreelance.md) applied in order to protect myself.
    - The only way this stipulation can be altered is by buying the appropriate 'upgrade' (See [How Much I Charge](https://github.com/Eagle-Studios/CE_Mods/blob/main/FreelanceInfo.md#how-much-i-charge))
-   - Work completed under freelance, shall be provided with a licence document stating that you can reupload that specific work, thus waiving the APL-NDs reupload policy
-      - Ensure this document is kept with the PBO. 
 
 - Any and All work which is proposed **MUST** follow Bohemia's EULA. 
    - From Their Own Discord: 
