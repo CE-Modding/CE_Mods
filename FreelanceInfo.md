@@ -12,7 +12,7 @@
 
 - Acknowledge I accept no responsibility for mods that receive DMCA's and/or Removal from the Steam Workshop.
    - Any work I complete shall be done so, following the licenses of other creaters involved (Either directly or indirectly). 
-      - I.e. If you need a compat mod for RHS then I shall follow RHS's license, should the mod you make (which includes my files) recieve a DMCA from RHS (In this examples case), I shall not be held responsible (in-part or wholey) for the infractions caused, **UNLESS** the infractions are **DIRECTLY** to-do with my files. 
+      - Example: If you need a compat mod for RHS then I shall follow RHS's license, should the mod you make (which includes my files) recieve a DMCA from RHS (In this examples case), I shall not be held responsible (in-part or wholey) for the infractions caused, **UNLESS** the infractions are **DIRECTLY** to-do with my files. 
 
 ## How I work
 
