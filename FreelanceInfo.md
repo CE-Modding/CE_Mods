@@ -3,9 +3,12 @@
 
 **Any work I do as a freelancer (I.e adhoc/one-off/short term) is subject to the following:**
 - Any and All work will have my [Freelance License](LicenseFreelance.md) applied in order to protect myself.
-   - The only way this stipulation can be altered is by buying the appropriate 'upgrade' (See [How Much I Charge](https://github.com/Eagle-Studios/CE_Mods/blob/main/FreelanceInfo.md#how-much-i-charge))
+   - The only way this stipulation can be altered is by buying the license waiver (See [How Much I Charge](https://github.com/Eagle-Studios/CE_Mods/blob/main/FreelanceInfo.md#how-much-i-charge))
 
-- Any and All work which is proposed **MUST** follow Bohemia's EULA. (I'm not selling Arma-ready assets (p3d, bin, paa, etc...))
+- I can and Will obfuscate any work where possible. 
+   - The only way this stipulation can be altered is by buying the license waiver (See [How Much I Charge](https://github.com/Eagle-Studios/CE_Mods/blob/main/FreelanceInfo.md#how-much-i-charge))
+
+- Any and All work which is proposed **MUST** follow Bohemia's EULA. (I'm not selling Arma-ready assets)
 
 - Acknowledge that the work I do, shall not be used in mods which are considered grey areas. 
    - If you need to question if your mod is considered to be in a grey area, i.e not strictly following the EULA, then my work is not to be used for it. 
@@ -31,11 +34,16 @@ I work under the idea that by providing an affordable & transparent service, tha
 I am able and more than willing to provide updates to any work that you have tasked me to complete, I do this in order to give peace of mind that I am actually working on your work. <br>
 
 I may be able to offer milestone based payments which turn any work into modules which you can pay for separately. <br>
+   - This works by seperating your project into segments which can be paid individually, you can chose to have these files as seperate files or wait to be combined into the main project files. 
+      - Splitting the files up, does not mean you can gain access to a unbinned file, and then go about reverse engineering (or copying etc) my work and do the rest yourself, if thats what your plan is then you would be violating my license.
+      - You will still only get the files at the end, but it means you dont have to pay for an entire project in one go.
+
 
 ## How Much I Charge
 For general config work I work at a rate of £40 per-hour, _as mentioned above_ this is calculated on how much time I have spent working specifically on your project or if paying using the _described above_ milestone system, it will be worked as per the agreed module. <br>
 
 Should you wish to edit, modify, build upon the work provided, I charge an additional £80 to waive the [supplied license](LicenseFreelance.md). <br>
+ - This is per project. 
 
 Note that additional charges may occur should I need to spend time looking into/researching a topic that your project involves; this will be communicated with you at the time. <br>
 
