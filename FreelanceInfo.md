@@ -5,12 +5,7 @@
 - Any and All work will have my [Freelance License](LicenseFreelance.md) applied in order to protect myself.
    - The only way this stipulation can be altered is by buying the appropriate 'upgrade' (See [How Much I Charge](https://github.com/Eagle-Studios/CE_Mods/blob/main/FreelanceInfo.md#how-much-i-charge))
 
-- Any and All work which is proposed **MUST** follow Bohemia's EULA. 
-   - From Their Own Discord: 
-      - You CANNOT pay someone to do ANYTHING involving Bohemia Interactive Tools (Arma Tools, Workbench, etc) at any stage - you can pay for 3D models, textures etc but not for game integration.
-      - You (or someone different from and unrelated to the person you paid for said resources) will have to assemble and encode them yourself
-
-Selling Arma-ready assets (p3d, bin, paa, etc...) is illegal (and the buyer can be scammed with no legal backup).
+- Any and All work which is proposed **MUST** follow Bohemia's EULA. (I'm not selling Arma-ready assets (p3d, bin, paa, etc...))
 
 - Acknowledge that the work I do, shall not be used in mods which are considered grey areas. 
    - If you need to question if your mod is considered to be in a grey area, i.e not strictly following the EULA, then my work is not to be used for it. 
