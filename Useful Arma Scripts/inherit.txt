@@ -1,0 +1,5 @@
+Class base_class;
+Class new_class : base_class
+{
+Property_to_change = new_value;
+};

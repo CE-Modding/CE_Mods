@@ -1,0 +1,1 @@
+"Scripts\GunSaluteFire.sqf" remoteExec ["execVM", 2]

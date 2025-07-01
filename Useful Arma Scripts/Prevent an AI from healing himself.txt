@@ -1,0 +1,1 @@
+﻿this setVariable ["ace_medical_ai_lastFired", 9999999];

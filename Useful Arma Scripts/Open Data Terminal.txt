@@ -1,0 +1,7 @@
+﻿[myTerminal, 3] call BIS_fnc_dataTerminalAnimate;
+
+//Number indicates a step..so change it as you see fit. Name your terminal / myTerminal /
+0: closed terminal
+1: case opened
+2: antenna up (but closed)
+3: antenna opened and transmitting.

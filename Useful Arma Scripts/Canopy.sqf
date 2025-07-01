@@ -1,0 +1,51 @@
+Bobby action ["GetOut", Plane_0];  
+Bobby action ["GetOut", Plane_1];  
+Bobby action ["GetOut", Plane_2];  
+Bobby action ["GetOut", Plane_3];  
+Bobby action ["GetOut", Plane_4];  
+Bobby action ["GetOut", Plane_5];  
+Bobby action ["GetOut", Plane_6];  
+Bobby action ["GetOut", Plane_7];  
+Bobby action ["GetOut", Plane_8];  
+Bobby action ["GetOut", Plane_9];  
+Bobby action ["GetOut", Plane_10];  
+Bobby action ["GetOut", Plane_11];  
+Bobby action ["GetOut", Plane_12];  
+Bobby action ["GetOut", Plane_13];  
+Bobby action ["GetOut", Plane_14];  
+Bobby action ["GetOut", Plane_15];  
+Bobby action ["GetOut", Plane_16];  
+Bobby action ["GetOut", Plane_17];  
+Bobby action ["GetOut", Plane_18];  
+Bobby action ["GetOut", Plane_19];  
+Bobby action ["GetOut", Plane_20];  
+Bobby action ["GetOut", Plane_21];
+
+sleep 10;
+
+Plane_0 enableSimulationGlobal false;     
+Plane_1 enableSimulationGlobal false;  
+Plane_2 enableSimulationGlobal false;  
+Plane_3 enableSimulationGlobal false;  
+Plane_4 enableSimulationGlobal false;  
+Plane_5 enableSimulationGlobal false;  
+Plane_6 enableSimulationGlobal false;  
+Plane_7 enableSimulationGlobal false;  
+Plane_8 enableSimulationGlobal false;  
+Plane_9 enableSimulationGlobal false;  
+Plane_10 enableSimulationGlobal false;  
+Plane_11 enableSimulationGlobal false;  
+Plane_12 enableSimulationGlobal false;  
+Plane_13 enableSimulationGlobal false;  
+Plane_14 enableSimulationGlobal false;  
+Plane_15 enableSimulationGlobal false;  
+Plane_16 enableSimulationGlobal false;  
+Plane_17 enableSimulationGlobal false;  
+Plane_18 enableSimulationGlobal false;  
+Plane_19 enableSimulationGlobal false;  
+Plane_20 enableSimulationGlobal false;  
+Plane_21 enableSimulationGlobal false;
+
+sleep 10;
+
+deleteVehicle Bobby;

@@ -1,0 +1,34 @@
+﻿//BRIEFING - Note: Order must be reversed due to load order. Paste into initPlayerLocal.sqf //Use    <br/>    to make line breaks
+player createDiaryRecord ["Diary", ["V. Mission Notes:", "
+
+"]];
+
+player createDiaryRecord ["Diary", ["IV. Signals:", "
+
+
+"]];
+
+player createDiaryRecord ["Diary", ["III. Execution:", "
+
+
+"]];
+
+player createDiaryRecord ["Diary", ["II. Mission:", "
+
+
+"]];
+
+player createDiaryRecord ["Diary", ["   B. Friendly Forces:", "
+
+
+"]];
+
+player createDiaryRecord ["Diary", ["   A. Enemy Forces:", "
+
+
+"]];
+
+player createDiaryRecord ["Diary", ["I. Situation:", "
+
+
+"]];

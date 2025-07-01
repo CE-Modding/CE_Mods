@@ -1,0 +1,1 @@
+﻿ace_minedetector_detectableClasses setVariable ["classOfObject", true];

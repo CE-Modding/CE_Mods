@@ -1,0 +1,6 @@
+Put this inside initServer.sqf
+
+_terrainLocation = nearestLocation [[14535.7,16824.4,0], "NameLocal"];
+_terrainLocation setType "Invisible"; 
+private _editableLocation = createLocation [_terrainLocation]; _editableLocation setType "b_hq";
+_editableLocation setText "Altis Airport.";
