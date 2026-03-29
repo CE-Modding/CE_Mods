@@ -34,7 +34,7 @@ The following information covers all credits and the licenses applicable to them
 
 ### NiArms, APL-ND
 - https://www.patreon.com/c/toadie2k/posts
-- Permission given by Toadie via Patreon Subscription, Source Models are provided. 
+- Permission given by Toadie via Patreon Subscription, Source Models are provided there. 
 
 ### Bromine, APL-SA
 - https://github.com/Brominum/Bro_RHS_Vehicle_Skins
@@ -43,3 +43,9 @@ The following information covers all credits and the licenses applicable to them
 ### Firewill, APL
 - https://steamcommunity.com/id/Firewill/myworkshopfiles
 - Permission given by Firewill via Discord Message: "basically I allow to use my mods without any condition. even you can modify config or texture what you like, or server, include in mod pack".
+- Source files not provided, just the permission to use/edit the workshop files. 
+
+### Hawk, APL-ND
+- https://steamcommunity.com/profiles/76561198830992670
+- Permission given by Hawk; source files provided to only me. APL-ND applied. 
+- Includes: MI-6 Hook, SSBN 941 TYPHOON, HMS ASTUTE.
