@@ -4,6 +4,8 @@
 
 ## Ensure you visit my [WIKI](https://github.com/Eagle-Studios/CE_Mods/wiki), as this now contains all my mod links (And relevant documents for them)
 
+## For development tracking, please view my [Trello](https://trello.com/b/aVMShic5/cemodding-development)
+
 ### Mod Page Links:
 [Steam](https://steamcommunity.com/id/CEagle) <br>
 [Arma 3 (Steam)](https://steamcommunity.com/id/CEagle/myworkshopfiles/?appid=107410&sort=score&browsefilter=myfiles&view=imagewall)  <br>
